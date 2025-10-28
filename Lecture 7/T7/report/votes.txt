@@ -1,0 +1,7 @@
+Disney; Ocean Park
+Hotel ICON; Ocean Park
+W Hong Kong; Ocean Park
+Hotel ICON
+Ocean Park
+Disney; Hotel ICON    
+-1

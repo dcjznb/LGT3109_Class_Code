@@ -1,0 +1,4 @@
+000001, Alice, Laster Printer X50, AZDD
+000002, Bob, Laster Printer X51, HZAB
+000003, Carl, LED Monitor M310, BBZA
+-1

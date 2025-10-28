@@ -1,0 +1,8 @@
+000001, David, Wireless Mouse M20, XYZA
+000002, Emma, Bluetooth Keyboard K10, QWER
+000003, Frank, USB-C Hub H200, ZXCV
+000004, Grace, Laptop Stand S300, TYUI
+000005, Helen, Web Camera C920, ASDF
+000006, Ivan, External SSD E500, GHJK
+000007, Julia, Gaming Headset G700, BNML
+-1
